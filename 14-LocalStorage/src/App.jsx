@@ -1,7 +1,6 @@
-import React from 'react'
 
 const App = () => {
- 
+
   localStorage.setItem('User', 'Zaid Mansuri')
   localStorage.setItem('age', 19)
 
