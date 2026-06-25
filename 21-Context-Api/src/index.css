@@ -1,0 +1,17 @@
+*{
+  margin: auto;
+  padding: auto;
+}
+.nav{
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 14px 20px;
+  align-items: center;
+}
+
+
+.nav2{
+  display: flex;
+  gap: 20px;
+}
